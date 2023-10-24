@@ -1,4 +1,5 @@
 # chat_app_flutter
+![flash_chat_flutter_demo (1)](https://github.com/Devendra072002/Chat-App-Flutter/assets/95930224/1d258b75-39b0-44b9-ab96-bcea8e183871)
 
 A new Flutter project.
 
